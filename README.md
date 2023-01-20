@@ -1,3 +1,3 @@
-Confira o site do projeto https://github.com/Gustavo-DelColi/ds-meta
+Confira o site do projeto https://dsmeta-gusta02.netlify.app/
 
 Projeto Semana Spring React, ministrado gratuitamente pelo prof. Nelio, da Dev Superior
